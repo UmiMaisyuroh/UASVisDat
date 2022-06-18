@@ -9,3 +9,6 @@ Variabel bebas yang digunakan:
 <p align="justify">- Persentase Rumah Tangga menurut Provinsi dan Memiliki Akses terhadap Sanitasi Layak</p>
 <p align="justify">- Persentase Rumah Tangga menurut Provinsi dan Status Kepemilikan Rumah Kontrak/sewa</p>
 <p align="justify">- Persentase Rumah Tangga yang memiliki Akses Terhadap Hunian Yang Layak dan Terjangkau menurut Provinsi</p>
+<br></br>
+<h2>Analisis Data</h2>
+<h3>Preprocessing</h3>
