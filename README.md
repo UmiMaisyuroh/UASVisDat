@@ -12,3 +12,7 @@ Variabel bebas yang digunakan:
 <br></br>
 <h2>Analisis Data</h2>
 <h3>Preprocessing</h3>
+<p align="center">
+<img src = "https://github.com/putrikurnia21/visualisasidataUAS/blob/main/boxplot.png" width="400" height="250" />
+</p>
+
