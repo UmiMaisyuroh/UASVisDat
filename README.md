@@ -17,8 +17,9 @@ Variabel bebas yang digunakan:
 <img src = "https://github.com/UmiMaisyuroh/UASVisDat/blob/main/data%20visualisasi%20uas.png" width="300" height="450" />
 </p>
 <br></br>
-<p align="center">
+
 <h3>Analisis Deskriptif</h3>
+<p align="center">
 <img src = "https://github.com/UmiMaisyuroh/UASVisDat/blob/main/2.png" width="400" height="250" />
 </p>
 
