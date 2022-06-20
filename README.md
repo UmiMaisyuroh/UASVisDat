@@ -41,7 +41,9 @@ dengan nilai rata-rata sebesar 58,02%. </p>
 <p> * Horizontal Bar Chart </p>
 <br> </br>
 <h2>Tampilan Dashboard</h2>
-
+<p align="center">
+  <img src="https://github.com/UmiMaisyuroh/UASVisDat/blob/main/5.png" width ="1000" height="650"/>
+  </p>
 <h2> Tambahan pada Dashboard</h2>
 <p> Pada dashboard ditampilkan juga beberapa tambahan seperti : </p>
 <p align="justify"> - Tooltip : Pada saat kursor diarahkan ke visualisasi data misalnya pada batang bar chart, maka akan ditampilkan keterangan dari bar tersebut. Hal ini dibuat untuk memperindah tampilan agar tidak terlihat berantakan</p>
