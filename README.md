@@ -31,7 +31,7 @@ sebesar 28,56% dan nilai maksimum sebesar 86,19%
 dengan nilai rata-rata sebesar 58,02%. </p>
 <br></br>
 <h2> Clustering</h2>
- <p align="justify"> Berdasarkan hasil clustering dengan metode k-means didapatkan 3 klaster.Klaster pertama adalah kumpulan provinsi yang persentase kesediaan air minum layak atau sanitasi layak nilainya di bawah atau sama dengan rata-rata. Untuk Hunian layak huni pada cluster 1 masih banyak yang di bawah rata-ratanya (58,02%).> Klaster 2 adalah kumpulan provinsi yang nilai persentase hampir semua variabelnya berada di atas rata-rata. Dalam kata lain, provinsi yang ada pada cluster 2 adalah provinsi yang mempunyai persentase Hunian layak huni yang tinggi. Klaster 3 berisikan 1 provinsi yaitu provinsi Papua. Persentase semua variabelnya berada di bawah rata-rata artinya, di Provinsi Papua masih sedikit Hunian yang layak huni.</p>
+ <p align="justify"> Berdasarkan hasil clustering dengan metode k-means didapatkan 3 klaster.Klaster pertama adalah kumpulan provinsi yang persentase kesediaan air minum layak atau sanitasi layak nilainya di bawah atau sama dengan rata-rata. Untuk Hunian layak huni pada cluster 1 masih banyak yang di bawah rata-ratanya (58,02%). Klaster 2 adalah kumpulan provinsi yang nilai persentase hampir semua variabelnya berada di atas rata-rata. Dalam kata lain, provinsi yang ada pada cluster 2 adalah provinsi yang mempunyai persentase Hunian layak huni yang tinggi. Klaster 3 berisikan 1 provinsi yaitu provinsi Papua. Persentase semua variabelnya berada di bawah rata-rata artinya, di Provinsi Papua masih sedikit Hunian yang layak huni.</p>
  <br></br>
 <h2> Perancangan Dashboard</h2>
 <p align="justify"> Perancangan dashboard untuk memvisualisasikan indikator sosial kependudukan dibuat menggunakan platform Tableau Desktop. Dashboard dirancang menggunakan warna pastel keungu-unguan karena unik dan eksotis.</p>
@@ -54,6 +54,9 @@ dengan nilai rata-rata sebesar 58,02%. </p>
 <p> Pada dashboard ditampilkan juga beberapa tambahan seperti : </p>
 <p align="justify"> - Tooltip : Pada saat kursor diarahkan ke visualisasi data misalnya pada batang bar chart, maka akan ditampilkan keterangan dari bar tersebut. Hal ini dibuat untuk memperindah tampilan agar tidak terlihat berantakan</p>
 <p align="justify"> - Pilih kelompok : Pada beberapa visualisasi, ditampilkan pilihan berupa kelompok tahun dari data </p>
+<br></br>
+<h2>Embed Dashboard Tableau</h2>
+<p align="justify"> Dashboard yang dibuat di tableau dapat dipublikasikan dan diakses secara online. Jika ingin menyimpan dalam format html maka hal yang harus dilakukan adalah mengembed dashboard dengan cara menyalin embed code pada tableau lalu diletakkan pada bagian div. 
 
 
 
