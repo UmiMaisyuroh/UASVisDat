@@ -29,6 +29,11 @@ maksimum sebesar 37,71 dengan nilai rata-rata
 Terjangkau menurut Provinsi memiliki nilai minimum
 sebesar 28,56% dan nilai maksimum sebesar 86,19%
 dengan nilai rata-rata sebesar 58,02%. </p>
+<h2> Perancangan Dashboard</h2>
+<p align="justify"> Perancangan dashboard untuk memvisualisasikan indikator sosial kependudukan dibuat menggunakan software Tableau Desktop. Dashboard dirancang menggunakan warna pastel keungu-unguan karena unik dan eksotis.</p>
+<br></br>
+<h2> Pembuatan Dashboard Visualisasi </h2>
+
 
 
 
