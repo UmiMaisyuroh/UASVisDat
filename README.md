@@ -33,7 +33,12 @@ dengan nilai rata-rata sebesar 58,02%. </p>
 <p align="justify"> Perancangan dashboard untuk memvisualisasikan indikator sosial kependudukan dibuat menggunakan software Tableau Desktop. Dashboard dirancang menggunakan warna pastel keungu-unguan karena unik dan eksotis.</p>
 <br></br>
 <h2> Pembuatan Dashboard Visualisasi </h2>
-<p align="justify">Dashboard dapat diakses secara daring melalui link https://public.tableau.com/app/profile/umi.maisyuroh/viz/INSYAALLAHUDHBENER/Dashboard1?publish=yes </p>
+<p>Dashboard dapat diakses secara daring melalui link https://public.tableau.com/app/profile/umi.maisyuroh/viz/INSYAALLAHUDHBENER/Dashboard1?publish=yes </p>
+<p>Jenis visualisasi yang digunakan adalah :</p>
+<p> * Peta Tematik</p>
+<p> * Bar Chart </p>
+<p> * Tabel </p>
+<p> * Horizontal Bar Chart </p>
 
 
 
