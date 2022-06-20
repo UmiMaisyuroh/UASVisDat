@@ -19,9 +19,17 @@ Variabel bebas yang digunakan:
 <br></br>
 
 <h3>Analisis Deskriptif</h3>
+
 <p align="center">
 <img src = "https://github.com/UmiMaisyuroh/UASVisDat/blob/main/2.png" width="400" height="250" />
 </p>
+<p align="justify">Berdasarkan hasil ringkasan data variabel penelitian menggunakan software R di atas diketahui bahwa untuk variabel Listrik PLN mempunyai nilai minimum sebesar 43,14% dan nilai maksimum sebesar 99,99% dengan nilai rata-rata sebesar 93,28%. Untuk variabel Air Minum Layak mempunyai nilai minimum sebesar 62,47% dan nilai maksimum sebesar 99,84 % dengan nilai rata-rata sebesar 85,41%. Untuk variabel Sanitasi Layak memiliki nilai minimum sebesar 40,31% dan nilai maksimum sebesar 96,96% dengan nilai ratarata sebesar 79,81%. Untuk variabel Kontrak/Sewa memiliki nilai minimum sebesar 2,15% dan nilai
+maksimum sebesar 37,71 dengan nilai rata-rata
+9,644%. Terakhir untuk variabel Hunian Layak dan
+Terjangkau menurut Provinsi memiliki nilai minimum
+sebesar 28,56% dan nilai maksimum sebesar 86,19%
+dengan nilai rata-rata sebesar 58,02%. </p>
+
 
 
 
