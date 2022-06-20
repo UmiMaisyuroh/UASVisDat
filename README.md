@@ -29,8 +29,12 @@ maksimum sebesar 37,71 dengan nilai rata-rata
 Terjangkau menurut Provinsi memiliki nilai minimum
 sebesar 28,56% dan nilai maksimum sebesar 86,19%
 dengan nilai rata-rata sebesar 58,02%. </p>
+<br></br>
+<h2> Clustering</h2>
+ <p align="justify"> Berdasarkan hasil clustering dengan metode k-means didapatkan 3 klaster.Klaster pertama adalah kumpulan provinsi yang persentase kesediaan air minum layak atau sanitasi layak nilainya di bawah atau sama dengan rata-rata. Untuk Hunian layak huni pada cluster 1 masih banyak yang di bawah rata-ratanya (58,02%).> Klaster 2 adalah kumpulan provinsi yang nilai persentase hampir semua variabelnya berada di atas rata-rata. Dalam kata lain, provinsi yang ada pada cluster 2 adalah provinsi yang mempunyai persentase Hunian layak huni yang tinggi. Klaster 3 berisikan 1 provinsi yaitu provinsi Papua. Persentase semua variabelnya berada di bawah rata-rata artinya, di Provinsi Papua masih sedikit Hunian yang layak huni.</p>
+ <br></br>
 <h2> Perancangan Dashboard</h2>
-<p align="justify"> Perancangan dashboard untuk memvisualisasikan indikator sosial kependudukan dibuat menggunakan software Tableau Desktop. Dashboard dirancang menggunakan warna pastel keungu-unguan karena unik dan eksotis.</p>
+<p align="justify"> Perancangan dashboard untuk memvisualisasikan indikator sosial kependudukan dibuat menggunakan platform Tableau Desktop. Dashboard dirancang menggunakan warna pastel keungu-unguan karena unik dan eksotis.</p>
 <br></br>
 <h2> Pembuatan Dashboard Visualisasi </h2>
 <p>Dashboard dapat diakses secara daring melalui link https://public.tableau.com/app/profile/umi.maisyuroh/viz/INSYAALLAHUDHBENER/Dashboard1?publish=yes </p>
@@ -44,22 +48,8 @@ dengan nilai rata-rata sebesar 58,02%. </p>
 <p align="center">
   <img src="https://github.com/UmiMaisyuroh/UASVisDat/blob/main/5.png" width ="1100" height="650"/>
   </p>
-  <p align="justify">Dashboard ini menampilkan visualisasi data dari beberapa indikator sosial kependudukan untuk analisis hunian layak huni. Pada peta tematik ditampilkan persebaran hunian layak huni menurut provinsi di Indonesia. Berdasarkan hasil clustering dengan metode k-means didapatkan 3 klaster.</p>
-  <p align="justify"> Klaster pertama adalah kumpulan provinsi yang
-persentase kesediaan air minum layak atau
-sanitasi layak nilainya di bawah atau sama dengan
-rata-rata. Untuk Hunian layak huni pada cluster 1
-masih banyak yang di bawah rata-ratanya
-(58,02%).</p>
-<p align="justify"> Klaster 2 adalah kumpulan provinsi yang nilai
-persentase hampir semua variabelnya berada di
-atas rata-rata. Dalam kata lain, provinsi yang ada
-pada cluster 2 adalah provinsi yang mempunyai
-persentase Hunian layak huni yang tinggi.</p>
-<p align="justify"> Klaster 3 berisikan 1 provinsi yaitu provinsi Papua.
-Persentase semua variabelnya berada di bawah
-rata-rata artinya, di Provinsi Papua masih sedikit
-Hunian yang layak huni.</p>
+  <p align="justify">Dashboard ini menampilkan visualisasi data dari beberapa indikator sosial kependudukan untuk analisis hunian layak huni. Pada peta tematik ditampilkan persebaran hunian layak huni menurut provinsi di Indonesia, 5 Provinsi dengan persentase rumah tangga dengan sumber penerangan listrik PLN, 10 provinsi dengan proporsi rumah tangga yang memiliki akses terhadap layanan sanitasi layak tertinggi ,5 provinsi dengan persentase terendah rumah tangga dengan sumber air minum layak tahun 2021, dan proporsi status kepemilikan rumah tangga menurut provinsi.</p>
+ 
 <h2> Tambahan pada Dashboard</h2>
 <p> Pada dashboard ditampilkan juga beberapa tambahan seperti : </p>
 <p align="justify"> - Tooltip : Pada saat kursor diarahkan ke visualisasi data misalnya pada batang bar chart, maka akan ditampilkan keterangan dari bar tersebut. Hal ini dibuat untuk memperindah tampilan agar tidak terlihat berantakan</p>
