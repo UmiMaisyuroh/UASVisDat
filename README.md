@@ -46,7 +46,7 @@ dengan nilai rata-rata sebesar 58,02%. </p>
 <br> </br>
 <h2>Tampilan Dashboard</h2>
 <p align="center">
-  <img src="https://github.com/UmiMaisyuroh/UASVisDat/blob/main/5.png" width ="1100" height="650"/>
+  <img src="https://github.com/UmiMaisyuroh/UASVisDat/blob/main/5.png" width ="900" height="550"/>
   </p>
   <p align="justify">Dashboard ini menampilkan visualisasi data dari beberapa indikator sosial kependudukan untuk analisis hunian layak huni. Pada peta tematik ditampilkan persebaran hunian layak huni menurut provinsi di Indonesia, 5 Provinsi dengan persentase rumah tangga dengan sumber penerangan listrik PLN, 10 provinsi dengan proporsi rumah tangga yang memiliki akses terhadap layanan sanitasi layak tertinggi ,5 provinsi dengan persentase terendah rumah tangga dengan sumber air minum layak tahun 2021, dan proporsi status kepemilikan rumah tangga menurut provinsi.</p>
  
@@ -54,10 +54,10 @@ dengan nilai rata-rata sebesar 58,02%. </p>
 <p> Pada dashboard ditampilkan juga beberapa tambahan seperti : </p>
 <p align="justify"> - Tooltip : Pada saat kursor diarahkan ke visualisasi data misalnya pada batang bar chart, maka akan ditampilkan keterangan dari bar tersebut. Hal ini dibuat untuk memperindah tampilan agar tidak terlihat berantakan</p>
 <p align="center">
- <img src="https://github.com/UmiMaisyuroh/UASVisDat/blob/main/4.png" width="1100" height="650"/></p>
+ <img src="https://github.com/UmiMaisyuroh/UASVisDat/blob/main/4.png" width="900" height="550"/></p>
 <p align="justify"> - Pilih kelompok : Pada beberapa visualisasi, ditampilkan pilihan berupa kelompok tahun dari data </p>
 <p align="center">
- <img src="https://github.com/UmiMaisyuroh/UASVisDat/blob/main/3.png" width="1100" height="650"/></p>
+ <img src="https://github.com/UmiMaisyuroh/UASVisDat/blob/main/3.png" width="900" height="550"/></p>
 <br></br>
 <h2>Embed Dashboard Tableau</h2>
 <p align="justify"> Dashboard yang dibuat di tableau dapat dipublikasikan dan diakses secara online. Jika ingin menyimpan dalam format html maka hal yang harus dilakukan adalah mengembed dashboard dengan cara menyalin embed code pada tableau lalu diletakkan pada bagian div. 
