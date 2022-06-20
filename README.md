@@ -16,5 +16,9 @@ Variabel bebas yang digunakan:
 <p align="center">
 <img src = "https://github.com/UmiMaisyuroh/UASVisDat/blob/main/data%20visualisasi%20uas.png" width="400" height="250" />
 </p>
+<br></br>
+<h3>Analisis Deskriptif</h3>
+
+
 
 
