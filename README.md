@@ -42,7 +42,7 @@ dengan nilai rata-rata sebesar 58,02%. </p>
 <br> </br>
 <h2>Tampilan Dashboard</h2>
 <p align="center">
-  <img src="https://github.com/UmiMaisyuroh/UASVisDat/blob/main/5.png" width ="1000" height="650"/>
+  <img src="https://github.com/UmiMaisyuroh/UASVisDat/blob/main/5.png" width ="1100" height="650"/>
   </p>
 <h2> Tambahan pada Dashboard</h2>
 <p> Pada dashboard ditampilkan juga beberapa tambahan seperti : </p>
