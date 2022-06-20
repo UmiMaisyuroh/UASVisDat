@@ -53,6 +53,8 @@ dengan nilai rata-rata sebesar 58,02%. </p>
 <h2> Tambahan pada Dashboard</h2>
 <p> Pada dashboard ditampilkan juga beberapa tambahan seperti : </p>
 <p align="justify"> - Tooltip : Pada saat kursor diarahkan ke visualisasi data misalnya pada batang bar chart, maka akan ditampilkan keterangan dari bar tersebut. Hal ini dibuat untuk memperindah tampilan agar tidak terlihat berantakan</p>
+<p align="center">
+ <img src="https://github.com/UmiMaisyuroh/UASVisDat/blob/main/4.png" width="1100" height="650"/></p>
 <p align="justify"> - Pilih kelompok : Pada beberapa visualisasi, ditampilkan pilihan berupa kelompok tahun dari data </p>
 <p align="center">
  <img src="https://github.com/UmiMaisyuroh/UASVisDat/blob/main/3.png" width="1100" height="650"/></p>
