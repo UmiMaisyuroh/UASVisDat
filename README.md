@@ -32,11 +32,20 @@ dengan nilai rata-rata sebesar 58,02%. </p>
 <br></br>
 <h2> Clustering</h2>
 <h3> Scaling Data </h3>
+<p align="center">
+<img src = "https://github.com/UmiMaisyuroh/UASVisDat/blob/main/10.png" width="400" height="250" />
+</p>
+<br></br>
+<h3>Penentuan K</h3>
+<p align="center">
+<img src = "https://github.com/UmiMaisyuroh/UASVisDat/blob/main/11.png" width="400" height="250" />
+</p>
+<p align="justify">Dari gambar di atas dapat dilihat bahwa banyak cluster yang akan menghasilkan pengelompokkan secara maksimal adalah 3.</p>
 
- <p align="justify"> Berdasarkan hasil clustering dengan metode k-means didapatkan 3 klaster.Klaster pertama adalah kumpulan provinsi yang persentase kesediaan air minum layak atau sanitasi layak nilainya di bawah atau sama dengan rata-rata. Untuk Hunian layak huni pada cluster 1 masih banyak yang di bawah rata-ratanya (58,02%). Klaster 2 adalah kumpulan provinsi yang nilai persentase hampir semua variabelnya berada di atas rata-rata. Dalam kata lain, provinsi yang ada pada cluster 2 adalah provinsi yang mempunyai persentase Hunian layak huni yang tinggi. Klaster 3 berisikan 1 provinsi yaitu provinsi Papua. Persentase semua variabelnya berada di bawah rata-rata artinya, di Provinsi Papua masih sedikit Hunian yang layak huni.</p>
  <p align="center">
 <img src = "https://github.com/UmiMaisyuroh/UASVisDat/blob/main/8.png" width="400" height="550" />
 </p>
+ <p align="justify"> Berdasarkan hasil clustering dengan metode k-means didapatkan 3 klaster.Klaster pertama adalah kumpulan provinsi yang persentase kesediaan air minum layak atau sanitasi layak nilainya di bawah atau sama dengan rata-rata. Untuk Hunian layak huni pada cluster 1 masih banyak yang di bawah rata-ratanya (58,02%). Klaster 2 adalah kumpulan provinsi yang nilai persentase hampir semua variabelnya berada di atas rata-rata. Dalam kata lain, provinsi yang ada pada cluster 2 adalah provinsi yang mempunyai persentase Hunian layak huni yang tinggi. Klaster 3 berisikan 1 provinsi yaitu provinsi Papua. Persentase semua variabelnya berada di bawah rata-rata artinya, di Provinsi Papua masih sedikit Hunian yang layak huni.</p>
  <br></br>
 <h2> Perancangan Dashboard</h2>
 <p align="justify"> Perancangan dashboard untuk memvisualisasikan indikator sosial kependudukan dibuat menggunakan platform Tableau Desktop. Dashboard dirancang menggunakan warna pastel keungu-unguan karena unik dan eksotis.</p>
