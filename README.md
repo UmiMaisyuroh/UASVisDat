@@ -1,4 +1,4 @@
-<h1 align="center"> Visualisasi Data Provinsi di Indonesia Berdasarkan Indikator Sosial Kependudukan </h1>
+<h1 align="center"> Visualisasi Clustering Provinsi di Indonesia Berdasarkan Indikator Sosial Kependudukan </h1>
 <p align="center">(Analisis Hunian Layak Huni)</p>
 <p align="justify">Indonesia merupakan urutan keempat Negara dengan penduduk terbanyak di dunia. Dengan banyaknya jumlah penduduk di Indonesia, timbul pertanyaan mengenai keadaan dan kondisi masyarakat Indonesia. Apakah semua rakyat Indonesia sudah memiliki kehidupan layak atau belum. Kehidupan yang layak dapat dilihat dari pemenuhan kebutuhan masyarakat. Kebutuhan primer manusia terdiri dari tiga yaitu Sandang, Papan dan Pangan. tujuan dari penelitian ini adalah untuk memvisualisasikan hasil dari pengelompokkan beberapa indikator sosial kependudukan berdasarkan provinsi. Pengelompokkan ini dilakukan untuk melihat bagaimana persebaran penduduk Indonesia berdasarkan indikator tersebut yang selanjutnya diharapkan dapat membantu pemerintah dalam pengambilan kebijakan sesuai dengan hasil pengelompokkan. Data yang digunakan dalam penelitian ini adalah data sekunder yang bersumber dari Badan Pusat Statistik yaitu data Persentase Rumah Tangga menurut Provinsi dan Sumber Penerangan Listrik PLN 1993 – 2020, Persentase Rumah Tangga menurut Provinsi dan Sumber Air Minum Layak 1993 – 2020, Persentase Rumah Tangga menurut Provinsi dan Memiliki Akses terhadap Sanitasi Layak, Persentase Rumah Tangga menurut Provinsi dan Status Kepemilikan Rumah Kontrak/sewa, dan Persentase Rumah Tangga yang memiliki Akses Terhadap Hunian Yang Layak dan Terjangkau menurut Provinsi. </p>
 <h2 align="justify">Data yang digunakan</h2>
@@ -31,7 +31,12 @@ sebesar 28,56% dan nilai maksimum sebesar 86,19%
 dengan nilai rata-rata sebesar 58,02%. </p>
 <br></br>
 <h2> Clustering</h2>
+<h3> Scaling Data </h3>
+
  <p align="justify"> Berdasarkan hasil clustering dengan metode k-means didapatkan 3 klaster.Klaster pertama adalah kumpulan provinsi yang persentase kesediaan air minum layak atau sanitasi layak nilainya di bawah atau sama dengan rata-rata. Untuk Hunian layak huni pada cluster 1 masih banyak yang di bawah rata-ratanya (58,02%). Klaster 2 adalah kumpulan provinsi yang nilai persentase hampir semua variabelnya berada di atas rata-rata. Dalam kata lain, provinsi yang ada pada cluster 2 adalah provinsi yang mempunyai persentase Hunian layak huni yang tinggi. Klaster 3 berisikan 1 provinsi yaitu provinsi Papua. Persentase semua variabelnya berada di bawah rata-rata artinya, di Provinsi Papua masih sedikit Hunian yang layak huni.</p>
+ <p align="center">
+<img src = "https://github.com/UmiMaisyuroh/UASVisDat/blob/main/8.png" width="400" height="550" />
+</p>
  <br></br>
 <h2> Perancangan Dashboard</h2>
 <p align="justify"> Perancangan dashboard untuk memvisualisasikan indikator sosial kependudukan dibuat menggunakan platform Tableau Desktop. Dashboard dirancang menggunakan warna pastel keungu-unguan karena unik dan eksotis.</p>
@@ -48,7 +53,7 @@ dengan nilai rata-rata sebesar 58,02%. </p>
 <p align="center">
   <img src="https://github.com/UmiMaisyuroh/UASVisDat/blob/main/6.png" width ="900" height="550"/>
   </p>
-  <p align="justify">Dashboard ini menampilkan visualisasi data dari beberapa indikator sosial kependudukan untuk analisis hunian layak huni. Pada peta tematik ditampilkan persebaran hunian layak huni menurut provinsi di Indonesia, 5 Provinsi dengan persentase rumah tangga dengan sumber penerangan listrik PLN, 10 provinsi dengan proporsi rumah tangga yang memiliki akses terhadap layanan sanitasi layak tertinggi ,5 provinsi dengan persentase terendah rumah tangga dengan sumber air minum layak tahun 2021, dan proporsi status kepemilikan rumah tangga menurut provinsi.</p>
+  <p align="justify">Dashboard ini menampilkan visualisasi hasil clustering terhadap beberapa indikator sosial kependudukan dalam menganalisis hunian layak huni. Selain itu, dashboard ini menampilkan visualisasi data dari indikator sosial kependudukan yang digunakan untuk analisis hunian layak huni. Pada peta tematik ditampilkan Clustering hunian layak huni menurut provinsi di Indonesia, 5 Provinsi dengan persentase rumah tangga dengan sumber penerangan listrik PLN, 10 provinsi dengan proporsi rumah tangga yang memiliki akses terhadap layanan sanitasi layak tertinggi ,5 provinsi dengan persentase terendah rumah tangga dengan sumber air minum layak tahun 2021, dan proporsi status kepemilikan rumah tangga menurut provinsi.</p>
  
 <h2> Tambahan pada Dashboard</h2>
 <p> Pada dashboard ditampilkan juga beberapa tambahan seperti : </p>
