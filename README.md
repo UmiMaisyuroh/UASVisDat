@@ -14,7 +14,7 @@ Variabel bebas yang digunakan:
 <h3>Preprocessing</h3>
 <p align="justify"> Data yang digunakan pada penelitian ini dikumpulkan secara kumulatif. Sebelum dilakukan proses lebih lanjut, akan dilakukan preprocessing data untuk mengubah data mentah menjadi informasi yang lebih bersih untuk pengolahan </p>
 <p align="center">
-<img src = "https://github.com/UmiMaisyuroh/UASVisDat/blob/main/data%20visualisasi%20uas.png" width="300" height="450" />
+<img src = "https://github.com/UmiMaisyuroh/UASVisDat/blob/main/data%20visualisasi%20uas.png" width="400" height="450" />
 </p>
 <br></br>
 
